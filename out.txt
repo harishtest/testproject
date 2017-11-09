@@ -1,0 +1,44 @@
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs  488M     0  488M   0% /dev
+tmpfs          tmpfs     100M  8.1M   92M   9% /run
+/dev/xvda1     ext4      7.7G  1.2G  6.6G  16% /
+tmpfs          tmpfs     496M     0  496M   0% /dev/shm
+tmpfs          tmpfs     5.0M     0  5.0M   0% /run/lock
+tmpfs          tmpfs     496M     0  496M   0% /sys/fs/cgroup
+tmpfs          tmpfs     100M     0  100M   0% /run/user/1001
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs  488M     0  488M   0% /dev
+tmpfs          tmpfs     100M  3.1M   97M   4% /run
+/dev/xvda1     ext4      7.7G  1.3G  6.5G  17% /
+tmpfs          tmpfs     496M     0  496M   0% /dev/shm
+tmpfs          tmpfs     5.0M     0  5.0M   0% /run/lock
+tmpfs          tmpfs     496M     0  496M   0% /sys/fs/cgroup
+tmpfs          tmpfs     100M     0  100M   0% /run/user/1000
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs  488M     0  488M   0% /dev
+tmpfs          tmpfs     100M  3.1M   97M   4% /run
+/dev/xvda1     ext4      7.7G  1.3G  6.5G  17% /
+tmpfs          tmpfs     496M     0  496M   0% /dev/shm
+tmpfs          tmpfs     5.0M     0  5.0M   0% /run/lock
+tmpfs          tmpfs     496M     0  496M   0% /sys/fs/cgroup
+tmpfs          tmpfs     100M     0  100M   0% /run/user/1000
+ 12:46:05 up  3:54,  0 users,  load average: 0.00, 0.02, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs  488M     0  488M   0% /dev
+tmpfs          tmpfs     100M  8.1M   92M   9% /run
+/dev/xvda1     ext4      7.7G  1.2G  6.6G  16% /
+tmpfs          tmpfs     496M     0  496M   0% /dev/shm
+tmpfs          tmpfs     5.0M     0  5.0M   0% /run/lock
+tmpfs          tmpfs     496M     0  496M   0% /sys/fs/cgroup
+tmpfs          tmpfs     100M     0  100M   0% /run/user/1001
+ 12:46:36 up  3:55,  0 users,  load average: 0.00, 0.01, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+              total        used        free      shared  buff/cache   available
+Mem:        1014648       43636      677780        8236      293232      805992
+Swap:             0           0           0
+ 12:46:47 up  3:55,  0 users,  load average: 0.00, 0.01, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+              total        used        free      shared  buff/cache   available
+Mem:        1014648       43744      677644        8232      293260      805884
+Swap:             0           0           0
